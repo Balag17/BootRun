@@ -1,0 +1,1 @@
+INSERT INTO Inventory values (1,'Samsung', 20000, '8GB');
